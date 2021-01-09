@@ -1,0 +1,26 @@
+SYSTEMATIC SATURDAY: #data and #analytics Friends:
+
+What's better than Integration? "MORE INTEGRATION!"
+
+Calculus is "POWERFUL".
+
+Last week we used the analogy of "time step size" in system dynamics predictions in calculus to finding the best "learning step size".
+
+"Learning step size" can vary depending on the nature of your current learning loop, just like the "time step size" can vary in size depending on the nature of numerical functions being integrated.
+
+You can also use calculus to add up very small pieces of any quantifiable thing to create a much greater whole.
+
+However, these little pieces were already part of that greater whole.
+
+We are literally using calculus to quantify the amount of the whole that we've added up so far.
+
+What's the growth lesson?
+
+Bring in knowledge from everywhere, turn that knowledge into high level concepts, and integrate those concepts to make a more complete whole.
+
+In the design realm, our integrated whole can be greater than the sum of the parts.
+
+History shows -
+Max Brilliance is often an integration of many brilliant concepts.
+
+#datascience

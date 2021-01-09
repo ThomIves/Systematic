@@ -1,0 +1,40 @@
+SYSTEMATIC SATURDAY: #data and #analytics Friends,
+
+INTEGRATION! This word has rich conceptual meaning.
+
+I was thrilled when I first saw the power of
+numerical integration to predict system dynamics.
+
+BUT WAIT - THERE's MORE!
+
+I have DEEP respect for those that used analog computers.
+
+One "REALLY" needed to know math & physics well,
+and how devices stored, released, or dissipated energy
+to gain insights from them, BUT analog computers had limits.
+
+Numerical integration also requires good appreciation
+of math and physics.
+
+Solutions take too long when integration steps are too SMALL.
+Solutions are inaccurate when integration steps are too BIG.
+
+There's art in finding the best step size.
+
+HERE is the "THERE's MORE" part:
+
+Integration also applies to REVIEW - LEARN - TRY growth cycles.
+
+If we try to learn every SMALL detail, we move too slow.
+If we try to learn in BIG steps, we miss necessary details.
+But we must INTEGRATE our learning to make the best progress.
+
+To those providing constructive comments & challenging
+questions to this series - thank you!
+
+Let's grow this model together for our combined benefit.
+
+See a link to my "Integrating Brilliance" talk in the
+comments if you want more thoughts on concepts of integration.
+
+#datascience

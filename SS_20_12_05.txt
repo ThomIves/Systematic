@@ -1,0 +1,37 @@
+""" CONTROL """
+
+SYSTEMATIC SATURDAY: #data and #analytics Friends,
+
+"CONTROL" as in control system design is awesome!
+
+A system's controller is PURELY goal oriented!
+
+It looks at the desired states - GOALS.
+It measures or predicts the CURRENT states.
+It measures the ERROR between the GOALS and CURRENT states.
+It sends FEEDBACK to the system to move the CURRENT states towards the GOALS.
+Frequent FEEDBACK ensures system stability.
+
+HOWEVER, a controller does OTHER important functions too!
+It rejects noise and handles disturbances.
+If the system doesn't handle these well, the system can become unstable.
+
+We are adding """ CONTROL """ to our growth model this week:
+. Let's grow in skill to filter noise.
+. Let's grow in our abilities to handle disturbances.
+. Let's grow in seeing our TRUE STATES as we receive signals in our lives.
+
+What are examples of how to do this?
+When someone is harsh towards us, look for the TRUTH.
+. If we filter their seemingly mean spirit, is there TRUTH in their statements?
+... Use that TRUTH as helpful feedback.
+. Is someone praising you only to get on your good side?
+... Filter it, be nice, and pursue your GOALS.
+
+Always CARE about finding your TRUE states
+And work toward your GOALS (goal states).
+
+Where do your GOALS come from?
+Your WHY.
+
+#datascience

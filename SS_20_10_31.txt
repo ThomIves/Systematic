@@ -1,0 +1,30 @@
+SYSTEMATIC SATURDAY: #data and #analytics Friends,
+
+I am examining “the efforts in” my life per encouragement from Socrates.
+
+The pseudo code:
+....My_Living = REVIEW + LEARN + TRY
+........IF SOLVE Better:
+............GROW
+............Call My_Living
+........IF Worse:
+............ReRun My_Living
+
+Does this model have good parsimony?
+
+Does it generalize well?
+
+Can this model help us better grow through more awareness?
+
+Will it help with the big 3: 1) Spirit, 2) Mind, 3) Body?
+
+I’ll explore answers to these questions as a series for Saturdays.
+
+I’ll return each Saturday with true confessions.
+
+For now, I will apply it to simpler endeavors like
+reinforced learning!
+
+This question is far more difficult than that I feel.
+
+#datascience
