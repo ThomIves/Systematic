@@ -1,47 +1,45 @@
-""" LEARN  by  EXPLORING """
+"""  LEARN  by  EXPLORING "BROADLY"  """
 
 SYSTEMATIC SATURDAY: #data and #analytics Friends,
 
-I'm LATE! ⌚ Late this day 🌇
-that's the next day 📅 in a late time zone ⛰
+Last week's Systematic Saturday post proposed
+how to best start new LEARNing processes.
 
-Why? LEARNing how to LEARN better.
+I expressed what I had learned from watching
+my 👉 "reinforced learning agent 🔴" 👈
+LEARN.
 
-Please don't judge me 🙂
-ACTUALLY - JUDGE ME!
+When learning new stuff, EXPLORE many references
+at a high level.
 
-This last FANATIC FRIDAY celebrated
-it's 1st virtual being - 🔴
-My li'l red virtual dot with a
-reinforcement LEARNing mind.
-See link to post in comments.
+A helpful thing from grad school?
+Start with simple references.
 
-WHY did it take me this long to understand
-how to best start a new LEARNing process?
+Recently, I burned out reading transformer papers.
+So many questions!
 
-WHY did it take programming 🔴 to
-move in a virtual environment to see
-how to best start to LEARN something new?
+I decided to try some "YouTube" videos ... I WAS AMAZED
 
-I followed what 🔴 taught me, tried it,
-and it worked!
+Yannic Kilcher:
+👉 "Attention Is All You Need"
+The A.I. Hacker - Michael Phi:
+👉 "Illustrated Guide to Transformers Neural Network:
+... A step by step explanation"
+Seattle Applied Deep Learning:
+👉 "LSTM is dead. Long Live Transformers"
+CodeEmporium
+👉 "Transformer Neural Networks - EXPLAINED! (Attention is all you need)"
+👉 "BERT Neural Network - EXPLAINED!"
 
-WHEN drawing the image for this latest
-growth post, it hit me "why" EXPLORATION speeds
-early LEARNing.
+Again, 👆 are YouTube Videos.
 
-I did learn this previously,
-but almost didn't remember!
+Bigger takeaway for NEW LEARNing?
+BROADLY! From simple to complex.
+BROADLY! From videos to journal papers.
+BROADLY! Form a diverse learning group.
 
-Army scouts explore "broadly" in initial
-reconnaissance. If they don't, ouch!
+Please see comments.
 
-Limited time is our enemy.
-Explore many references at a high level.
-Think, reflect, explore more, think, reflect
-... repeat = Faster Learning AND Insights!
-
-Learning something new? See if this helps.
-Already using it? Please share how it helps you.
+Your NEW LEARN'ing techniques?
 
 #datascience
