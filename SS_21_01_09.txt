@@ -1,0 +1,45 @@
+""" LEARN by EXPLORING "BROADLY" """
+
+SYSTEMATIC SATURDAY: #data and #analytics Friends,
+
+Last week's Systematic Saturday post proposed
+how to best start new LEARNing processes.
+
+I expressed what I had learned from watching
+my 👉 "reinforced learning agent 🔴" 👈
+LEARN.
+
+When learning new stuff, EXPLORE many references
+at a high level.
+
+A helpful thing from grad school?
+Start with simple references.
+
+Recently, I burned out reading transformer papers.
+So many questions!
+
+I decided to try some "YouTube" videos ... I WAS AMAZED
+
+Yannic Kilcher:
+👉 "Attention Is All You Need"
+The A.I. Hacker - Michael Phi:
+👉 "Illustrated Guide to Transformers Neural Network:
+... A step by step explanation"
+Seattle Applied Deep Learning:
+👉 "LSTM is dead. Long Live Transformers"
+CodeEmporium
+👉 "Transformer Neural Networks - EXPLAINED! (Attention is all you need)"
+👉 "BERT Neural Network - EXPLAINED!"
+
+Again, 👆 are YouTube Videos.
+
+Bigger takeaway for NEW LEARNing?
+BROADLY! From simple to complex.
+BROADLY! From videos to journal papers.
+BROADLY! Form a diverse learning group.
+
+Please see comments.
+
+Your NEW LEARN'ing techniques?
+
+#datascience
